@@ -1,0 +1,10 @@
+In the current folder, Open a terminal
+
+type the following command to start the server:
+go run server.go 1234
+
+Now open another terminal in the current folder
+
+type the following command to start the client:
+go run client.go "localhost:1234"
+
